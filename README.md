@@ -41,4 +41,4 @@ MENTOR: NEELA SANTOSH
 
 4. OUTPUT:
    
-file:///C:/Users/AKASH%20NAGARAJAN/Downloads/[sample_report.pdf](file:///C:/Users/AKASH%20NAGARAJAN/Downloads/sample_report.pdf)
+[sample_report.pdf](https://github.com/user-attachments/files/20941661/sample_report.pdf)
